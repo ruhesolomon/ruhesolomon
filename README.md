@@ -24,23 +24,13 @@ I’m Ruhe Solomon, currently a Computer Science student at Columbia University,
 
 ---
 
-##  Repository Highlights  
-This personal repo serves as my professional portfolio and sandbox for experimentation. It includes:  
-- Projects & demos from coursework, internships, personal tinkering  
-- Machine learning notebooks: data preprocessing → modeling → evaluation  
-- Web apps or APIs showcasing deployment of algorithms  
-- Technical blog posts or write-ups explaining non-trivial engineering lessons  
-- Career resources, reflections, and mentoring materials  
-
----
-
 ## Tools & Technologies  
-- Languages: Python, JavaScript, (others as needed)  
-- ML/DS: pandas, NumPy, scikit-learn, TensorFlow/Keras  
-- Web/Backend: Node.js, React, Flask/FastAPI  
-- DevOps & Deployment: Docker, CI/CD (GitHub Actions), cloud platforms  
-- Version control & collaboration: Git, GitHub, Agile workflows  
-
+- Languages: Python, Java, C++/C#, Javascript, HTML, CSS, React, SQL
+- Machine Learning & Data Science: pandas, NumPy, scikit-learn, TensorFlow/Keras
+- Web & Backend: Node.js, React, Flask/FastAPI
+- Cloud & Infrastructure: Microsoft Azure (including Azure DevOps), Amazon Web Services (AWS), virtual machines & scalable compute environments
+- DevOps & Deployment: Docker, CI/CD (GitHub Actions), cloud-native infrastructure, container orchestration
+- Version Control & Collaboration: Git, GitHub, Agile workflows
 ---
 
 ## 📁 Featured Projects  
