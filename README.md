@@ -1,5 +1,4 @@
 # Ruhe Solomon   
-Computer Science · Software Engineering 
 
 ---
 
