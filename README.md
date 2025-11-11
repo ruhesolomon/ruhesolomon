@@ -24,7 +24,7 @@ I’m Ruhe Solomon, currently a Computer Science student at Columbia University,
 - Version Control & Collaboration: Git, GitHub, Agile workflows
 ---
 
-## 📁 Featured Projects  
+##  Featured Projects  
 - **[`DefineAndSolveMLProblem`](https://github.com/ruhesolomon/DefineAndSolveMLProblem)** – A machine learning notebook pipeline for sentiment analysis of book reviews using TF-IDF features and logistic regression.
 - **[`ParallelOptimizationFinalProject`](https://github.com/ruhesolomon/ParallelOptimizationFinalProject)**: A project implementing parallel computing techniques to optimize algorithmic performance in a final-course setting.  
 - **[`ChatClient`](https://github.com/ruhesolomon/ChatClient)**: A real-time chat client application connecting to a socket server, built with C++ and object-oriented architecture.  
