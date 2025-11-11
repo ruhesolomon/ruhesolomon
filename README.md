@@ -43,10 +43,10 @@ This personal repo serves as my professional portfolio and sandbox for experimen
 
 ---
 
-##  What I’m Working On  
-- A sentiment-analysis pipeline for book reviews (text classification + feature engineering)  
-- Enhancing my portfolio with a deployable ML model exposed as an API  
-- Contributing to open-source tools that promote equity in tech  
+## 📁 Featured Projects  
+- **[`invictus-IOSapp`](https://github.com/ruhesolomon/invictus-IOSapp)**: A native iOS application built to find Black-owned businesses in your city.  
+- **[`ParallelOptimizationFinalProject`](https://github.com/ruhesolomon/ParallelOptimizationFinalProject)**: A project implementing parallel computing techniques to optimize algorithmic performance in a final-course setting.  
+- **[`ChatClient`](https://github.com/ruhesolomon/ChatClient)**: A real-time chat client application connecting to a socket server, built with C++ and object-oriented architecture.  
 
 ---
 
