@@ -1,16 +1,56 @@
-## Hi there 👋
+# Ruhe Solomon   
+Computer Science · Software Engineering · Emerging Tech Advocate
 
-<!--
-**ruhesolomon/ruhesolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+##  About Me  
+I’m Ruhe Solomon, currently a Computer Science student at Columbia University, and formerly a Software Engineering Intern at Microsoft. I’m passionate about building impactful software, exploring machine learning & AI, and using technology to drive change.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Education & Experience  
+- **Education:** Studying Computer Science at Columbia University  
+- **Professional Experience:**  
+  - Software Engineering Intern @ Microsoft – built, tested, and shipped features in a high-impact environment  
+- **Fellowship:** Selected as a Fellow in the MLT Career Pathways Program ’26 cohort, reflecting my commitment to advancing in tech and leadership  
+
+---
+
+##  Areas of Focus  
+- Full-stack software engineering: from design to deployment  
+- Machine Learning & Artificial Intelligence: model building, data pipelines, NLP  
+- Mentorship & advocacy: empowering underrepresented voices in tech  
+- Learning mindset: keeping up with emerging tech, best practices, and open-source collaboration  
+
+---
+
+##  Repository Highlights  
+This personal repo serves as my professional portfolio and sandbox for experimentation. It includes:  
+- Projects & demos from coursework, internships, personal tinkering  
+- Machine learning notebooks: data preprocessing → modeling → evaluation  
+- Web apps or APIs showcasing deployment of algorithms  
+- Technical blog posts or write-ups explaining non-trivial engineering lessons  
+- Career resources, reflections, and mentoring materials  
+
+---
+
+## Tools & Technologies  
+- Languages: Python, JavaScript, (others as needed)  
+- ML/DS: pandas, NumPy, scikit-learn, TensorFlow/Keras  
+- Web/Backend: Node.js, React, Flask/FastAPI  
+- DevOps & Deployment: Docker, CI/CD (GitHub Actions), cloud platforms  
+- Version control & collaboration: Git, GitHub, Agile workflows  
+
+---
+
+##  What I’m Working On  
+- A sentiment-analysis pipeline for book reviews (text classification + feature engineering)  
+- Enhancing my portfolio with a deployable ML model exposed as an API  
+- Contributing to open-source tools that promote equity in tech  
+
+---
+
+##  Let’s Connect  
+- LinkedIn: [linkedin.com/in/ruhe-solomon-127a83212/](https://www.linkedin.com/in/ruhe-solomon-127a83212/)  
+- GitHub: [github.com/ruhe-solomon](https://github.com/ruhe-solomon) (This repo)  
+
