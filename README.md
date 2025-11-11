@@ -1,5 +1,5 @@
 # Ruhe Solomon   
-Computer Science · Software Engineering · Emerging Tech Advocate
+Computer Science · Software Engineering 
 
 ---
 
