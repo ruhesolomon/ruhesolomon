@@ -4,7 +4,7 @@ Computer Science · Software Engineering · Emerging Tech Advocate
 ---
 
 ##  About Me  
-I’m Ruhe Solomon, currently a Computer Science student at Columbia University, and formerly a Software Engineering Intern at Microsoft. I’m passionate about building impactful software, exploring machine learning & AI, and using technology to drive change.
+I’m Ruhe Solomon, currently a Computer Science student at Columbia University, 3x SWE intern and current AI/ML fellow at Break Through Tech. I’m passionate about building impactful software, exploring machine learning & AI, and using technology to drive change.
 
 ---
 
